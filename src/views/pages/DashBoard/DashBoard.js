@@ -58,7 +58,7 @@ const Dashboard = () => {
                       tag="h1"
                       className="text-uppercase mb-0"  
                     >
-                      오늘 예약 및 매장 현황
+                      오늘 예약 및 매장 현황 testtest
                     </CardTitle>
                       </div>
                   </CardBody>
