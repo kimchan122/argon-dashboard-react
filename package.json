@@ -25,7 +25,7 @@
   },
   "proxy": "http://seoul.naturemobility.com:18080/",
   "scripts": {
-    "start": "set PORT=8083&&react-app-rewired start",
+    "start": "export PORT=8083 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
