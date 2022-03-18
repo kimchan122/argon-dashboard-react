@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/creativetimofficial/argon-dashboard-react.git"
   },
-  "homepage": "https://demos.creative-tim.com/argon-dashboard-react/",
+  "homepage": ".",
   "keywords": [
     "react",
     "reactjs",
@@ -26,7 +26,7 @@
   "proxy": "http://seoul.naturemobility.com:18080/",
   "scripts": {
     "start": "react-scripts start",
-    "build": "export PORT=8083 && react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
