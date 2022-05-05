@@ -241,8 +241,7 @@ const onSubmit =event =>{
   "floorScreenStatus": fss?fss:false,
   "storageStatus": ss?ss:false,
   "lessonStatus": ls?ls:false,
-  "reserveStatus": rs?rs:false,
-  "couponStatus": cs?cs:false
+  "reserveStatus": rs?rs:false
 }
 
 console.log(newData);
